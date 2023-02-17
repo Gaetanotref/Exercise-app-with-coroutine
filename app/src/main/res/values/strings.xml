@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercise_app_with_coroutine</string>
+    <string name="insert_number">Insert number</string>
+    <string name="click">Click</string>
+</resources>
